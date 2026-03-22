@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anmolpandey23/Rakshak/main/public/Rakshak_logo.png" width="180" alt="RAKSHAK Logo"/>
+<img src="Rakshak logo.png" width="180" alt="RAKSHAK Logo"/>
 
 # RAKSHAK
 ### Real-time AI-powered Knowledge-driven Safety & Hazard Alert Kit
