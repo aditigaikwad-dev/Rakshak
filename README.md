@@ -181,13 +181,6 @@ npm install && npm start
 
 Presented at **SAMVED Hackathon 2026**
 Organized by **MIT VPU University** in collaboration with **Solapur Municipal Corporation**
-
-| Role | Contributor | Repository |
-|---|---|---|
-| Frontend | Anmol Pandey | [Anmolpandey23/Rakshak](https://github.com/Anmolpandey23/Rakshak) |
-| Backend + AI | Nityanand | [Nityanand2004/rakshak-backend](https://github.com/Nityanand2004/rakshak-backend) |
-| Hardware | Rahul Malu | [Rahulmalu01/Samved](https://github.com/Rahulmalu01/Samved) |
-
 ---
 
 <div align="center">
