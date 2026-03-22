@@ -102,7 +102,7 @@ ESP8266 NodeMCU + ESP32-S3 embedded system
 
 ## 🔌 Hardware Wiring Diagram
 
-![ESP8266 NodeMCU Wiring Diagram](https://raw.githubusercontent.com/Rahulmalu01/Samved/main/wiring_diagram.jpeg)
+![WiringDiagram](WiringDiagram.jpeg)
 
 > **Components:** ESP8266 NodeMCU · GPS Module · MAX30102 Pulse Sensor · MQ-Series Gas Sensor · DHT22 Temperature/Humidity · VIN 5V Power Supply
 >
